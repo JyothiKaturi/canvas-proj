@@ -53,7 +53,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.jyothi.service.DrawingApp</mainClass>
+							<mainClass>com.jyothi.service.DrawingAppTest</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
